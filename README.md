@@ -1,2 +1,3 @@
 # FLASK_ALVARO
 CRUD en FLASK (python) con bd SQLite
+  HOLA ALVARO..........TIENES TRES PELIS NUEVAS
